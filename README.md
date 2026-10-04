@@ -60,3 +60,4 @@ For journalists: methodology and source list at <https://stellenabbau.hunterfang
 ## Updates
 
 This dataset syncs automatically from the [live tracker](https://stellenabbau.hunterfang.com) every day. Machine-readable updates also via [RSS](https://stellenabbau.hunterfang.com/rss.xml) and [llms-full.txt](https://stellenabbau.hunterfang.com/llms-full.txt).
+sync-test 2026-10-04
