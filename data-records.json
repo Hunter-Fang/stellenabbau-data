@@ -1,0 +1,703 @@
+[
+  {
+    "id": "galeria-2026-10-insolvenz",
+    "company": "galeria",
+    "date": "2026-10-02",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [
+      "Bundesweite Filialen"
+    ],
+    "states": [
+      "nordrhein-westfalen",
+      "bayern",
+      "hamburg",
+      "berlin"
+    ],
+    "status": "bestaetigt",
+    "type": "insolvenz",
+    "title": "Galeria stellt vierten Insolvenzantrag – Betrieb der Filialen läuft zunächst weiter",
+    "note": "Vierte Insolvenz seit 2020. Über das Filialnetz und die Zahl betroffener Stellen wurde zum Antragszeitpunkt noch nicht entschieden; der laufende Betrieb ist laut Unternehmen zunächst gesichert. Quellen: übereinstimmende Berichterstattung von Tagesschau, FAZ, Spiegel und n-tv.",
+    "source": {
+      "publisher": "tagesschau.de",
+      "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
+      "url": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html",
+      "date": "2026-10-02"
+    }
+  },
+  {
+    "id": "mercedes-benz-2026-09",
+    "company": "mercedes-benz",
+    "date": "2026-09-22",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "gefaehrdet",
+    "type": "werkschliessung",
+    "title": "Mercedes-Benz erhöht Druck: Schließung zweier Werke wird möglich",
+    "note": "Produktionsvorstand Michael Schiebe kündigte im Rahmen der Kostensenkung an, dass die Schließung von zwei Werken möglich sei. Betroffene Standorte und Zahlen sind laut ZEIT-Berichterstattung noch offen.",
+    "source": {
+      "publisher": "zeit.de",
+      "title": "Mercedes kündigt mögliche Schließung von zwei Werken an",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung-gxe",
+      "date": "2026-09-22"
+    }
+  },
+  {
+    "id": "vw-2026-09-04",
+    "company": "volkswagen",
+    "date": "2026-09-04",
+    "datePrecision": "day",
+    "employees": 50000,
+    "scope": "Deutschland",
+    "locations": [
+      "Wolfsburg",
+      "Zwickau",
+      "Emden",
+      "Osnabrück"
+    ],
+    "states": [
+      "niedersachsen",
+      "sachsen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "VW-Zukunftsplan 2030: weitere rund 50.000 Stellen betroffen, vier Werke zur Prüfung",
+    "note": "Aufsichtsratsbeschluss vom 4. September 2026 – der größte Umbau der Konzerngeschichte über das 2024er-Programm (35.000 Stellen) hinaus: weitere rund 50.000 Stellen sollen abgebaut werden, vier Werke werden auf neue Nutzungen geprüft. Laut Konzern ohne betriebsbedingte Kündigungen am Standort Zwickau bis 2030.",
+    "effectiveBy": "2030",
+    "source": {
+      "publisher": "zdfheute.de",
+      "title": "VW-Sparplan: 50.000 weitere Jobs und vier Werke betroffen",
+      "url": "https://www.zdfheute.de/panorama/vw-aufsichtsrat-worauf-geeinigt-faq-100.html",
+      "date": "2026-09-04"
+    }
+  },
+  {
+    "id": "porsche-2026-09",
+    "company": "porsche",
+    "date": "2026-09-04",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "gefaehrdet",
+    "type": "umstrukturierung",
+    "title": "VW-Konzern-Umbau: auch bei Audi, Porsche und Lamborghini Weitere Kürzungen Gegenstand der Beschlüsse",
+    "note": "Im Rahmen des VW-Zukunftsplans 2030 (Aufsichtsratsbeschluss vom 4. September 2026, rund 50.000 weitere Stellen im Konzern) sind laut übereinstimmender Berichterstattung auch Audi, Porsche und Lamborghini betroffen; verbindliche Markenzahlen liegen noch nicht vor.",
+    "source": {
+      "publisher": "merkur.de",
+      "title": "VW-Paukenschlag: Bas zieht rote Linie bei Werken",
+      "url": "https://www.merkur.de/wirtschaft/vw-einigt-sich-auf-massiven-sparplan-weitere-50-000-jobs-weg-zr-94474485.html",
+      "date": "2026-09-04"
+    }
+  },
+  {
+    "id": "ardagh-2026-08",
+    "company": "ardagh-glass",
+    "date": "2026-08-17",
+    "datePrecision": "day",
+    "employees": 260,
+    "scope": "Standort",
+    "locations": [
+      "Germersheim"
+    ],
+    "states": [
+      "rheinland-pfalz"
+    ],
+    "status": "bestaetigt",
+    "type": "werkschliessung",
+    "title": "Ardagh: Glaswerk Germersheim schließt – über 260 Jobs betroffen",
+    "note": "Die Schließung des deutschen Glaswerks von Ardagh Glass Packaging wurde bestätigt; das Werk stellte zum September 2026 den Betrieb ein.",
+    "effectiveBy": "2026-09",
+    "source": {
+      "publisher": "wochenblatt-reporter.de",
+      "title": "Ardagh schließt Glaswerk Germersheim bis September 2026",
+      "url": "https://www.wochenblatt-reporter.de/germersheim/c-wirtschaft-handel/ardagh-schliesst-glaswerk-germersheim-bis-september-2026-ueber-260-jobs-betroffen_a854800",
+      "date": "2026-08-17"
+    }
+  },
+  {
+    "id": "continental-2026-07-contitech",
+    "company": "continental",
+    "date": "2026-07-14",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Standort",
+    "locations": [
+      "Bad Blankenburg",
+      "Stolzenau",
+      "Moers"
+    ],
+    "states": [
+      "thueringen",
+      "niedersachsen",
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "werkschliessung",
+    "title": "ContiTech: Werke in Bad Blankenburg, Stolzenau und Moers sollen schließen",
+    "note": "Die Continental-Tochter plant die Schließung dreier deutscher Werke im Rahmen des Sparprogramms; Mitarbeiterzahl laut Branchenberichterstattung dreistellig je Standort.",
+    "source": {
+      "publisher": "Yahoo Finance (Reuters)",
+      "title": "Continental's ContiTech division to close four plants in Germany",
+      "url": "https://finance.yahoo.com/news/continentals-contitech-division-close-four-145346155.html",
+      "date": "2026-07-14"
+    }
+  },
+  {
+    "id": "bsh-2026-06",
+    "company": "bsh-hausgeraete",
+    "date": "2026-06-01",
+    "datePrecision": "month",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [
+      "München",
+      "Traunreut",
+      "Bad Neustadt"
+    ],
+    "states": [
+      "bayern"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "BSH Hausgeräte: Stellenabbau angekündigt – Umfang zunächst offen",
+    "note": "Der Haushaltsgerätehersteller (Bosch/Siemens) kündigte laut Ticker-Berichterstattung Sparmaßnahmen mit Personalauswirkungen an; Zahlen wurden zum Zeitpunkt der Meldung nicht genannt.",
+    "source": {
+      "publisher": "abfindungshero.de",
+      "title": "Stellenabbau-Ticker Deutschland",
+      "url": "https://abfindungshero.de/stellenabbau-deutschland/",
+      "date": "2026-06-19"
+    }
+  },
+  {
+    "id": "lufthansa-2026-06",
+    "company": "lufthansa",
+    "date": "2026-06-01",
+    "datePrecision": "month",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [
+      "Frankfurt am Main",
+      "München"
+    ],
+    "states": [
+      "hessen",
+      "bayern"
+    ],
+    "status": "gefaehrdet",
+    "type": "umstrukturierung",
+    "title": "Lufthansa: Stellenabbau im vierstelligen Bereich geprüft",
+    "note": "Laut Ticker-Berichterstattung plant die Lufthansa, tausende Stellen abzubauen. Konkrete Zahlen und betroffene Bereiche sind noch nicht offiziell.",
+    "source": {
+      "publisher": "abfindungshero.de",
+      "title": "Stellenabbau-Ticker Deutschland",
+      "url": "https://abfindungshero.de/stellenabbau-deutschland/",
+      "date": "2026-06-19"
+    }
+  },
+  {
+    "id": "bosch-2026-06-reutlingen",
+    "company": "bosch",
+    "date": "2026-06-01",
+    "datePrecision": "month",
+    "employees": 1100,
+    "scope": "Standort",
+    "locations": [
+      "Reutlingen"
+    ],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "bestaetigt",
+    "type": "werkschliessung",
+    "title": "Bosch Reutlingen: Steuergerätefertigung soll schließen – bis zu 1.100 Stellen betroffen",
+    "note": "Der Standort wird auf Halbleiter fokussiert; die Fertigung von Steuergeräten (u. a. eBike Systems) läuft aus. Abbau bis Ende des Jahrzehnts.",
+    "effectiveBy": "2030",
+    "source": {
+      "publisher": "fr.de",
+      "title": "Krise der deutschen Industrie: Bosch streicht an einem Standort 1.100 Stellen",
+      "url": "https://www.fr.de/wirtschaft/stellen-krise-der-deutschen-industrie-bosch-streicht-an-einem-standort-100-93846883.html",
+      "date": "2026-06-01"
+    }
+  },
+  {
+    "id": "xing-2025-12",
+    "company": "xing",
+    "date": "2025-12-01",
+    "datePrecision": "month",
+    "employees": 260,
+    "scope": "Deutschland",
+    "locations": [
+      "Hamburg"
+    ],
+    "states": [
+      "hamburg"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "XING (NEW WORK): rund 260 Stellen betroffen",
+    "note": "Umbau des Geschäftsmodells; Abbau über Abfindungsprogramme in Hamburg.",
+    "source": {
+      "publisher": "abfindungshero.de",
+      "title": "Stellenabbau-Ticker Deutschland",
+      "url": "https://abfindungshero.de/stellenabbau-deutschland/",
+      "date": "2026-06-19"
+    }
+  },
+  {
+    "id": "bosch-2025-09",
+    "company": "bosch",
+    "date": "2025-09-26",
+    "datePrecision": "month",
+    "employees": 13000,
+    "scope": "Deutschland",
+    "locations": [
+      "Gerlingen",
+      "Stuttgart",
+      "Reutlingen",
+      "Schwäbisch Gmünd",
+      "Bamberg",
+      "Salzgitter"
+    ],
+    "states": [
+      "baden-wuerttemberg",
+      "bayern",
+      "niedersachsen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Bosch Mobility: rund 13.000 Stellen in Deutschland bis 2030 – größter Abbau der Geschichte",
+    "note": "Die Mobility-Sparte kündigte an, bis Ende 2030 rund 13.000 Arbeitsplätze in Deutschland abzubauen; laut Berichtsvorlagen zunächst ohne betriebsbedingte Kündigungen. Ergänzend streicht Bosch in weiteren Divisionen Stellen (u. a. Antriebssparte, Februar 2025; Reutlingen 2026).",
+    "effectiveBy": "2030",
+    "source": {
+      "publisher": "evertiq.de",
+      "title": "Bosch streicht bis 2030 rund 13.000 Stellen bei Mobility in Deutschland",
+      "url": "https://evertiq.de/news/2025-09-26-bosch-streicht-bis-2030-rund-13000-stellen-bei-mobility-in-deutschland",
+      "date": "2025-09-26"
+    }
+  },
+  {
+    "id": "stihl-2025-07",
+    "company": "stihl",
+    "date": "2025-07-31",
+    "datePrecision": "day",
+    "employees": 100,
+    "scope": "Standort",
+    "locations": [
+      "Waiblingen-Neustadt"
+    ],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Stihl: 100 Stellen im Entwicklungszentrum am Stammsitz Waiblingen",
+    "note": "Zweite Runde am Stammsitz innerhalb eines Jahres (Dezember 2024: über 100 Stellen). Begründung: angespannte Wirtschaftslage im Gartengerätemarkt.",
+    "source": {
+      "publisher": "stuttgarter-zeitung.de",
+      "title": "In Waiblingen fallen 100 Stellen weg",
+      "url": "https://www.stuttgarter-zeitung.de/lokales/rems-murr-kreis/stihl-waiblingen-nochmal-100-stellen-weg-78992413.html",
+      "date": "2025-07-31"
+    }
+  },
+  {
+    "id": "porsche-2025-04",
+    "company": "porsche",
+    "date": "2025-04-01",
+    "datePrecision": "month",
+    "employees": 1900,
+    "scope": "Deutschland",
+    "locations": [
+      "Zuffenhausen",
+      "Weissach"
+    ],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Porsche: rund 1.900 Stellen an den Standorten Zuffenhausen und Weissach betroffen",
+    "note": "Abbau bis 2029 über sozialverträgliche Maßnahmen; ein Einstellungsstopp wurde verlängert.",
+    "effectiveBy": "2029",
+    "source": {
+      "publisher": "tagesschau.de",
+      "title": "Porsche streicht 1.900 Jobs in Stuttgart-Zuffenhausen und Weissach",
+      "url": "https://www.tagesschau.de/wirtschaft/porsche-stellenabbau-100.html",
+      "date": "2025-04-01"
+    }
+  },
+  {
+    "id": "siemens-2025-03",
+    "company": "siemens",
+    "date": "2025-03-18",
+    "datePrecision": "day",
+    "employees": 6000,
+    "scope": "Weltweit",
+    "locations": [],
+    "states": [
+      "bayern",
+      "baden-wuerttemberg",
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Siemens: rund 6.000 Stellen weltweit – über 2.500 davon in Deutschland",
+    "note": "Betroffen ist vor allem die Digital-Industrie-Sparte. Siemens betont gleichzeitige Neueinstellungen in Wachstumsbereichen; der Nettocabau in Deutschland ist geringer als die Bruttozahl.",
+    "effectiveBy": "2027",
+    "source": {
+      "publisher": "zdfheute.de",
+      "title": "Siemens baut Tausende Stellen weltweit ab",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/siemens-jobs-stellen-abbau-100.html",
+      "date": "2025-03-18"
+    }
+  },
+  {
+    "id": "audi-2025-03",
+    "company": "audi",
+    "date": "2025-03-17",
+    "datePrecision": "month",
+    "employees": 7500,
+    "scope": "Deutschland",
+    "locations": [
+      "Ingolstadt",
+      "Neckarsulm"
+    ],
+    "states": [
+      "bayern",
+      "baden-wuerttemberg"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Audi einigt sich mit Betriebsrat: 7.500 Stellen in Deutschland bis 2029",
+    "note": "Einigung vom 17. März 2025: Abbau von 7.500 Stellen im indirekten Bereich bis Ende 2029 – Produktion in Ingolstadt und Neckarsulm bleibt laut Vereinbarung unberührt. Prämien werden gekürzt. Im September 2026 wurde im VW-Konzern über weitergehende Kürzungen berichtet.",
+    "effectiveBy": "2029",
+    "source": {
+      "publisher": "ffh.de",
+      "title": "Audi streicht 7.500 Jobs und kürzt Prämien",
+      "url": "https://www.ffh.de/nachrichten/wirtschaft-aktuell/427552-audi-streicht-7500-jobs-und-kuerzt-praemien.html",
+      "date": "2025-03-17"
+    }
+  },
+  {
+    "id": "continental-2025-02",
+    "company": "continental",
+    "date": "2025-02-18",
+    "datePrecision": "day",
+    "employees": 3000,
+    "scope": "Weltweit",
+    "locations": [],
+    "states": [
+      "niedersachsen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Continental Automotive: 3.000 Stellen weltweit bis Ende 2026",
+    "note": "Fortsetzung des Sparkurses in der Automotive-Sparte. Im Zuge der Konzernaufspaltung (Aumovio) werden zusätzlich tausende Stellen diskutiert; 2024 waren bereits 7.150 Stellen avisiert.",
+    "effectiveBy": "2026",
+    "source": {
+      "publisher": "hasepost.de",
+      "title": "Continental streicht weltweit 3.000 Stellen bis 2026",
+      "url": "https://www.hasepost.de/continental-streicht-weltweit-3-000-stellen-bis-2026-567018/",
+      "date": "2025-02-18"
+    }
+  },
+  {
+    "id": "galeria-2025-01",
+    "company": "galeria",
+    "date": "2025-01-01",
+    "datePrecision": "month",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [
+      "Bundesweite Filialen"
+    ],
+    "states": [
+      "nordrhein-westfalen",
+      "bayern",
+      "hamburg",
+      "berlin"
+    ],
+    "status": "bestaetigt",
+    "type": "insolvenz",
+    "title": "Galeria: dritte Insolvenz seit 2020 – Standortnetz erneut reduziert",
+    "note": "Die Kaufhauskette meldete im Januar 2025 erneut Insolvenz in Eigenverwaltung; mehrere Häuser schlossen. Für die Belegschaft liefen Sozialpläne mit Abfindungsregelungen.",
+    "source": {
+      "publisher": "team-abfindung.de",
+      "title": "Stellenabbau 2026: Betroffene Firmen & Abfindungs-Check",
+      "url": "https://team-abfindung.de/stellenabbau-2026",
+      "date": "2026-09-07"
+    }
+  },
+  {
+    "id": "vw-2024-12",
+    "company": "volkswagen",
+    "date": "2024-12-20",
+    "datePrecision": "day",
+    "employees": 35000,
+    "scope": "Deutschland",
+    "locations": [
+      "Wolfsburg",
+      "Zwickau",
+      "Emden",
+      "Osnabrück",
+      "Baunatal",
+      "Salzgitter",
+      "Braunschweig",
+      "Kassel"
+    ],
+    "states": [
+      "niedersachsen",
+      "sachsen",
+      "hessen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Volkswagen beschließt Konzernumbau: rund 35.000 Stellen fallen bis 2030 weg",
+    "note": "Kapazitätsabbau von über 700.000 Fahrzeugen. Im September 2025 einigten sich Konzernleitung, IG Metall und Betriebsrat auf den Rahmen; im September 2026 stimmten die Gremien den Massenentlassungen zu. Abbau über Fluktuation, Altersteilzeit und Abfindungen – betriebsbedingte Kündigungen am Standort Zwickau sind bis 2030 ausgeschlossen.",
+    "effectiveBy": "2030",
+    "source": {
+      "publisher": "nw.de",
+      "title": "Volkswagen-Werke bleiben - 35.000 Stellen fallen weg",
+      "url": "https://www.nw.de/nachrichten/topthemen/24007535_Volkswagen-Werke-bleiben-35.000-Stellen-fallen-weg.html",
+      "date": "2024-12-20"
+    }
+  },
+  {
+    "id": "thyssenkrupp-2024-11",
+    "company": "thyssenkrupp",
+    "date": "2024-11-18",
+    "datePrecision": "month",
+    "employees": 11000,
+    "scope": "Deutschland",
+    "locations": [
+      "Duisburg",
+      "Essen"
+    ],
+    "states": [
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "thyssenkrupp Steel: rund 11.000 Stellen in der Stahlsparte bis 2030",
+    "note": "Einigung mit IG Metall im Frühjahr 2025; Kapazitätsabbau von 11 auf 8,7 Mio. Tonnen. Der Abbau erfolgt sozialverträglich, Werksschließungen (u. a. Teile Duisburgs) sind Teil des Plans.",
+    "effectiveBy": "2030",
+    "source": {
+      "publisher": "Deutsche Welle (EN)",
+      "title": "German steel giant ThyssenKrupp to slash 11,000 jobs",
+      "url": "https://www.deutsche-welle.com/en/german-steel-giant-thyssenkrupp-to-slash-11000-jobs/a-70880227",
+      "date": "2024-11-18"
+    }
+  },
+  {
+    "id": "schaeffler-2024-11",
+    "company": "schaeffler",
+    "date": "2024-11-05",
+    "datePrecision": "month",
+    "employees": 4700,
+    "scope": "Europa",
+    "locations": [
+      "Herzogenaurach",
+      "Bühl",
+      "Schweinfurt"
+    ],
+    "states": [
+      "bayern",
+      "baden-wuerttemberg"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Schaeffler: rund 4.700 Stellen in Europa betroffen, zwei Werke schließen",
+    "note": "Strukturmaßnahmen nach der Fusion mit Vitesco: bis zu 4.700 Stellen in Europa (Schwerpunkt Deutschland) und Schließung von zwei deutschen Werken (u. a. Berndorf-Storz) avisiert; sozialverträglicher Abbau zugesagt.",
+    "effectiveBy": "2029",
+    "source": {
+      "publisher": "EE News Europe",
+      "title": "Schaeffler to cut 4700 jobs, close two sites",
+      "url": "https://www.eenewseurope.com/en/schaeffler-to-cut-4700-jobs-close-two-sites/",
+      "date": "2024-11-06"
+    }
+  },
+  {
+    "id": "bayer-2024-11",
+    "company": "bayer",
+    "date": "2024-11-01",
+    "datePrecision": "month",
+    "employees": null,
+    "scope": "Weltweit",
+    "locations": [
+      "Leverkusen",
+      "Wuppertal",
+      "Bergkamen"
+    ],
+    "states": [
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Bayer: laufender Stellenabbau – Sozialplan mit Abfindungsfaktor 1,5 dokumentiert",
+    "note": "Mehrführungsebene wird abgebaut; das dokumentierte Abfindungsschema liegt bei Faktor 1,5 pro Beschäftigungsjahr, gedeckelt bei 52,5 Monatsgehältern – einer der attraktivsten Sätze im DAX-Umfeld.",
+    "effectiveBy": "2026",
+    "source": {
+      "publisher": "team-abfindung.de",
+      "title": "Stellenabbau 2026: Betroffene Firmen & Abfindungs-Check",
+      "url": "https://team-abfindung.de/stellenabbau-2026",
+      "date": "2026-09-07"
+    }
+  },
+  {
+    "id": "deutsche-bahn-2024-11",
+    "company": "deutsche-bahn",
+    "date": "2024-11-01",
+    "datePrecision": "month",
+    "employees": 30000,
+    "scope": "Deutschland",
+    "locations": [
+      "Berlin",
+      "Frankfurt am Main",
+      "Regionale Standorte"
+    ],
+    "states": [
+      "berlin",
+      "hessen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Deutsche Bahn: rund 30.000 Stellen im Verwaltungs- und Servicebereich bis 2029",
+    "note": "Sanierungsprogramm mit bis zu 30.000 Stellen im Verwaltungs- und Servicebereich bis 2029; Abbau über natürliche Fluktuation und Freiwilligenprogramme. Die Umsetzung läuft – u. a. stellt die Bahn Betroffenen Jobberater zur Seite (Business Insider, Januar 2026). Personalmangel im Fahrbetrieb bleibt parallel ein Thema.",
+    "effectiveBy": "2029",
+    "source": {
+      "publisher": "Business Insider Deutschland",
+      "title": "Deutsche Bahn im Umbau: Konzern stellt Mitarbeitern Jobberater zur Seite",
+      "url": "https://www.businessinsider.de/wirtschaft/deutsche-bahn-im-umbau-konzern-stellt-mitarbeitern-jobberater-zur-seite/",
+      "date": "2026-01-31"
+    }
+  },
+  {
+    "id": "ford-2024-11",
+    "company": "ford-deutschland",
+    "date": "2024-11-01",
+    "datePrecision": "month",
+    "employees": 2900,
+    "scope": "Deutschland",
+    "locations": [
+      "Köln",
+      "Aachen",
+      "Merkenich"
+    ],
+    "states": [
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "Ford-Werke: rund 2.900 Stellen in Köln und Aachen bis 2027",
+    "note": "Trifft Entwicklung und Verwaltung; die Produktion des elektrischen Explorer in Köln bleibt laut Unternehmensangaben unberührt.",
+    "effectiveBy": "2027",
+    "source": {
+      "publisher": "team-abfindung.de",
+      "title": "Stellenabbau 2026: Betroffene Firmen & Abfindungs-Check",
+      "url": "https://team-abfindung.de/stellenabbau-2026",
+      "date": "2026-09-07"
+    }
+  },
+  {
+    "id": "zf-2024-07",
+    "company": "zf",
+    "date": "2024-07-26",
+    "datePrecision": "month",
+    "employees": 14000,
+    "scope": "Deutschland",
+    "locations": [
+      "Friedrichshafen",
+      "Schweinfurt",
+      "Saarbrücken",
+      "Aachen",
+      "Passau"
+    ],
+    "states": [
+      "baden-wuerttemberg",
+      "bayern",
+      "saarland",
+      "nordrhein-westfalen",
+      "rheinland-pfalz"
+    ],
+    "status": "bestaetigt",
+    "type": "massenentlassung",
+    "title": "ZF kündigt Abbau von bis zu 14.000 Stellen in Deutschland an",
+    "note": "Größter Umbau der Unternehmensgeschichte: bis 2028 soll rund jede vierte Stelle in Deutschland wegfallen (zunächst rund 11.450 avisiert, später auf bis zu 14.000 erweitert). Schwerpunkt: E-Antriebe in Schweinfurt. Zusage: keine betriebsbedingten Kündigungen bis 2028.",
+    "effectiveBy": "2028",
+    "source": {
+      "publisher": "schwaebische.de",
+      "title": "ZF streicht bis zu 14.000 Jobs",
+      "url": "https://www.schwaebische.de/wirtschaft/zf-verkuendet-abbau-von-bis-zu-14-000-jobs-2738546",
+      "date": "2024-07-26"
+    }
+  },
+  {
+    "id": "dhl-2024-07",
+    "company": "dhl-group",
+    "date": "2024-07-01",
+    "datePrecision": "month",
+    "employees": 8000,
+    "scope": "Deutschland",
+    "locations": [
+      "Bonn",
+      "Frankfurt am Main",
+      "Regionale Briefzentren"
+    ],
+    "states": [
+      "nordrhein-westfalen",
+      "hessen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Deutsche Post DHL: rund 8.000 Stellen im Bereich Post & Paket Deutschland",
+    "note": "Kostensenkungsprogramm von rund 1 Mrd. Euro; Abbau über natürliche Fluktuation und Freiwilligenprogramme.",
+    "effectiveBy": "2026",
+    "source": {
+      "publisher": "tagesschau.de",
+      "title": "Deutsche Post streicht bis Jahresende 8.000 Arbeitsplätze",
+      "url": "https://www.tagesschau.de/wirtschaft/deutsche-post-stellenabbau-100.html",
+      "date": "2024-07-22"
+    }
+  },
+  {
+    "id": "sap-2024-01",
+    "company": "sap",
+    "date": "2024-01-23",
+    "datePrecision": "month",
+    "employees": null,
+    "scope": "Weltweit",
+    "locations": [
+      "Walldorf",
+      "Berlin",
+      "Potsdam",
+      "Leipzig",
+      "St. Leon-Rot"
+    ],
+    "states": [
+      "baden-wuerttemberg",
+      "berlin",
+      "brandenburg",
+      "sachsen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "SAP-Restrukturierung: rund 8.000 Stellen weltweit mit KI-Fokus neu ausgerichtet",
+    "note": "Angekündigtes Transformationsprogramm (Januar 2024, rund 2 Mrd. €): etwa 8.000 Stellen weltweit betroffen – laut späterer Berichterstattung davon rund 3.500 in Deutschland. Viele Betroffene wechselten intern oder schieden über Abfindungen aus; Abfindungspakete wurden berichtetemäß bis etwa 33,5 Monatsgehälter offeriert.",
+    "effectiveBy": "2025",
+    "source": {
+      "publisher": "Silicon Republic",
+      "title": "SAP restructuring to focus on AI will affect 8,000 jobs",
+      "url": "https://www.siliconrepublic.com/?p=1063907",
+      "date": "2024-01-23"
+    }
+  }
+]

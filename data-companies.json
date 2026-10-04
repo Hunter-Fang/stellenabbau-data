@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "volkswagen",
+    "name": "Volkswagen AG",
+    "industry": "automobil",
+    "hq": "Wolfsburg",
+    "state": "niedersachsen",
+    "aliases": [
+      "VW",
+      "Volkswagen",
+      "Volkswagen AG",
+      "VW AG"
+    ],
+    "shortName": "VW",
+    "severance": {
+      "kuendigungsschutzBis": "2030 (Zwickau)",
+      "note": "Betriebsbedingte Kündigungen am Standort Zwickau bis 2030 ausgeschlossen; Abbau über Abfindungen und Altersteilzeit."
+    }
+  },
+  {
+    "slug": "audi",
+    "name": "Audi AG",
+    "industry": "automobil",
+    "hq": "Ingolstadt",
+    "state": "bayern",
+    "aliases": [
+      "Audi",
+      "Audi AG",
+      "Audi Neckarsulm"
+    ],
+    "shortName": "Audi"
+  },
+  {
+    "slug": "porsche",
+    "name": "Dr. Ing. h.c. F. Porsche AG",
+    "industry": "automobil",
+    "hq": "Stuttgart-Zuffenhausen",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "Porsche",
+      "Porsche AG"
+    ],
+    "shortName": "Porsche"
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz Group AG",
+    "industry": "automobil",
+    "hq": "Stuttgart",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "Mercedes",
+      "Mercedes-Benz",
+      "Daimler",
+      "Mercedes-Benz Group"
+    ],
+    "shortName": "Mercedes-Benz"
+  },
+  {
+    "slug": "ford-deutschland",
+    "name": "Ford-Werke GmbH",
+    "industry": "automobil",
+    "hq": "Köln",
+    "state": "nordrhein-westfalen",
+    "aliases": [
+      "Ford",
+      "Ford-Werke",
+      "Ford Deutschland",
+      "Ford Köln"
+    ],
+    "shortName": "Ford"
+  },
+  {
+    "slug": "bosch",
+    "name": "Robert Bosch GmbH",
+    "industry": "zulieferer",
+    "hq": "Gerlingen",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "Bosch",
+      "Robert Bosch",
+      "Bosch Mobility",
+      "Bosch Reutlingen"
+    ],
+    "shortName": "Bosch"
+  },
+  {
+    "slug": "zf",
+    "name": "ZF Friedrichshafen AG",
+    "industry": "zulieferer",
+    "hq": "Friedrichshafen",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "ZF",
+      "ZF Friedrichshafen"
+    ],
+    "shortName": "ZF"
+  },
+  {
+    "slug": "continental",
+    "name": "Continental AG",
+    "industry": "zulieferer",
+    "hq": "Hannover",
+    "state": "niedersachsen",
+    "aliases": [
+      "Continental",
+      "Conti",
+      "ContiTech",
+      "Continental Automotive",
+      "Aumovio"
+    ],
+    "shortName": "Continental"
+  },
+  {
+    "slug": "schaeffler",
+    "name": "Schaeffler AG",
+    "industry": "zulieferer",
+    "hq": "Herzogenaurach",
+    "state": "bayern",
+    "aliases": [
+      "Schaeffler",
+      "Schaeffler AG"
+    ],
+    "shortName": "Schaeffler"
+  },
+  {
+    "slug": "thyssenkrupp",
+    "name": "thyssenkrupp AG",
+    "industry": "industrie",
+    "hq": "Essen",
+    "state": "nordrhein-westfalen",
+    "aliases": [
+      "Thyssenkrupp",
+      "ThyssenKrupp",
+      "Thyssen Krupp",
+      "thyssenkrupp Steel"
+    ],
+    "shortName": "thyssenkrupp"
+  },
+  {
+    "slug": "siemens",
+    "name": "Siemens AG",
+    "industry": "industrie",
+    "hq": "München",
+    "state": "bayern",
+    "aliases": [
+      "Siemens",
+      "Siemens AG"
+    ],
+    "shortName": "Siemens"
+  },
+  {
+    "slug": "stihl",
+    "name": "Andreas Stihl AG & Co. KG",
+    "industry": "industrie",
+    "hq": "Waiblingen",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "Stihl",
+      "Andreas Stihl"
+    ],
+    "shortName": "Stihl"
+  },
+  {
+    "slug": "ardagh-glass",
+    "name": "Ardagh Glass Packaging",
+    "industry": "industrie",
+    "hq": "Germersheim (Werk)",
+    "state": "rheinland-pfalz",
+    "aliases": [
+      "Ardagh",
+      "Ardagh Glass",
+      "Ardagh Germersheim"
+    ],
+    "shortName": "Ardagh"
+  },
+  {
+    "slug": "sap",
+    "name": "SAP SE",
+    "industry": "software-it",
+    "hq": "Walldorf",
+    "state": "baden-wuerttemberg",
+    "aliases": [
+      "SAP",
+      "SAP SE"
+    ],
+    "shortName": "SAP",
+    "severance": {
+      "upToMonths": 33.5,
+      "note": "Berichteten Abfindungspaketen zufolge bis zu etwa 33,5 Monatsgehälter."
+    }
+  },
+  {
+    "slug": "xing",
+    "name": "NEW WORK SE (XING)",
+    "industry": "software-it",
+    "hq": "Hamburg",
+    "state": "hamburg",
+    "aliases": [
+      "XING",
+      "New Work",
+      "NEW WORK SE"
+    ],
+    "shortName": "XING"
+  },
+  {
+    "slug": "bayer",
+    "name": "Bayer AG",
+    "industry": "chemie-pharma",
+    "hq": "Leverkusen",
+    "state": "nordrhein-westfalen",
+    "aliases": [
+      "Bayer",
+      "Bayer AG"
+    ],
+    "shortName": "Bayer",
+    "severance": {
+      "factor": 1.5,
+      "capMonths": 52.5,
+      "note": "Dokumentierter Sozialplan-Satz: Faktor 1,5 pro Beschäftigungsjahr, gedeckelt bei 52,5 Monatsgehältern."
+    }
+  },
+  {
+    "slug": "dhl-group",
+    "name": "DHL Group AG",
+    "industry": "logistik-verkehr",
+    "hq": "Bonn",
+    "state": "nordrhein-westfalen",
+    "aliases": [
+      "DHL",
+      "Deutsche Post",
+      "Deutsche Post DHL",
+      "DHL Group"
+    ],
+    "shortName": "DHL Group"
+  },
+  {
+    "slug": "deutsche-bahn",
+    "name": "Deutsche Bahn AG",
+    "industry": "logistik-verkehr",
+    "hq": "Berlin",
+    "state": "berlin",
+    "aliases": [
+      "Deutsche Bahn",
+      "DB",
+      "DB AG"
+    ],
+    "shortName": "Deutsche Bahn"
+  },
+  {
+    "slug": "lufthansa",
+    "name": "Deutsche Lufthansa AG",
+    "industry": "logistik-verkehr",
+    "hq": "Frankfurt am Main",
+    "state": "hessen",
+    "aliases": [
+      "Lufthansa",
+      "Deutsche Lufthansa"
+    ],
+    "shortName": "Lufthansa"
+  },
+  {
+    "slug": "bsh-hausgeraete",
+    "name": "BSH Hausgeräte GmbH",
+    "industry": "konsumgueter",
+    "hq": "München",
+    "state": "bayern",
+    "aliases": [
+      "BSH",
+      "BSH Hausgeräte",
+      "BSH Bosch und Siemens Hausgeräte"
+    ],
+    "shortName": "BSH"
+  },
+  {
+    "slug": "galeria",
+    "name": "Galeria Karstadt Kaufhof GmbH",
+    "industry": "handel",
+    "hq": "Essen",
+    "state": "nordrhein-westfalen",
+    "aliases": [
+      "Galeria",
+      "Galeria Karstadt",
+      "Galeria Kaufhof",
+      "Karstadt",
+      "Kaufhof"
+    ],
+    "shortName": "Galeria"
+  }
+]
