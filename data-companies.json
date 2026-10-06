@@ -68,7 +68,11 @@
       "Ford Deutschland",
       "Ford Köln"
     ],
-    "shortName": "Ford"
+    "shortName": "Ford",
+    "severance": {
+      "kuendigungsschutzBis": "2027 (Programmlaufzeit)",
+      "note": "Abbau über Freiwilligenprogramme; betriebsbedingte Kündigungen laut Vereinbarung ausgeschlossen."
+    }
   },
   {
     "slug": "bosch",
@@ -257,7 +261,10 @@
       "Lufthansa",
       "Deutsche Lufthansa"
     ],
-    "shortName": "Lufthansa"
+    "shortName": "Lufthansa",
+    "severance": {
+      "note": "Abbau laut Konzern ohne betriebsbedingte Kündigungen über Freiwilligenprogramme."
+    }
   },
   {
     "slug": "bsh-hausgeraete",

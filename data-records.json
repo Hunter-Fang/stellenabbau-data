@@ -1,5 +1,29 @@
 [
   {
+    "id": "galeria-2026-10-05",
+    "company": "galeria",
+    "date": "2026-10-05",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [
+      "Bundesweite Filialen"
+    ],
+    "states": [
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "insolvenz",
+    "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+    "note": "Das Amtsgericht Essen hat am 5. Oktober 2026 das Insolvenzverfahren für die Warenhauskette eröffnet – drei Tage nach dem vierten Insolvenzantrag. Der Betrieb der 83 Filialen läuft zunächst weiter; über Sanierung oder Abwicklung entscheiden die kommenden Wochen. Miteigentümer Beetz übte derweil scharfe Kritik an der Geschäftsführung.",
+    "source": {
+      "publisher": "tagesschau.de",
+      "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+      "date": "2026-10-05"
+    }
+  },
+  {
     "id": "galeria-2026-10-insolvenz",
     "company": "galeria",
     "date": "2026-10-02",
@@ -68,7 +92,7 @@
     "status": "bestaetigt",
     "type": "massenentlassung",
     "title": "VW-Zukunftsplan 2030: weitere rund 50.000 Stellen betroffen, vier Werke zur Prüfung",
-    "note": "Aufsichtsratsbeschluss vom 4. September 2026 – der größte Umbau der Konzerngeschichte über das 2024er-Programm (35.000 Stellen) hinaus: weitere rund 50.000 Stellen sollen abgebaut werden, vier Werke werden auf neue Nutzungen geprüft. Laut Konzern ohne betriebsbedingte Kündigungen am Standort Zwickau bis 2030.",
+    "note": "Aufsichtsratsbeschluss vom 4. September 2026 – der größte Umbau der Konzerngeschichte über das 2024er-Programm (35.000 Stellen) hinaus: weitere rund 50.000 Stellen sollen abgebaut werden, vier Werke werden auf neue Nutzungen geprüft. Laut Konzern ohne betriebsbedingte Kündigungen am Standort Zwickau bis 2030. ZDF-Berichterstattung mit FAQ zum Aufsichtsratsbeschluss: zdfheute.de/panorama/vw-aufsichtsrat-worauf-geeinigt-faq-100.html.",
     "effectiveBy": "2030",
     "source": {
       "publisher": "zdfheute.de",
@@ -153,58 +177,6 @@
     }
   },
   {
-    "id": "bsh-2026-06",
-    "company": "bsh-hausgeraete",
-    "date": "2026-06-01",
-    "datePrecision": "month",
-    "employees": null,
-    "scope": "Deutschland",
-    "locations": [
-      "München",
-      "Traunreut",
-      "Bad Neustadt"
-    ],
-    "states": [
-      "bayern"
-    ],
-    "status": "bestaetigt",
-    "type": "umstrukturierung",
-    "title": "BSH Hausgeräte: Stellenabbau angekündigt – Umfang zunächst offen",
-    "note": "Der Haushaltsgerätehersteller (Bosch/Siemens) kündigte laut Ticker-Berichterstattung Sparmaßnahmen mit Personalauswirkungen an; Zahlen wurden zum Zeitpunkt der Meldung nicht genannt.",
-    "source": {
-      "publisher": "abfindungshero.de",
-      "title": "Stellenabbau-Ticker Deutschland",
-      "url": "https://abfindungshero.de/stellenabbau-deutschland/",
-      "date": "2026-06-19"
-    }
-  },
-  {
-    "id": "lufthansa-2026-06",
-    "company": "lufthansa",
-    "date": "2026-06-01",
-    "datePrecision": "month",
-    "employees": null,
-    "scope": "Deutschland",
-    "locations": [
-      "Frankfurt am Main",
-      "München"
-    ],
-    "states": [
-      "hessen",
-      "bayern"
-    ],
-    "status": "gefaehrdet",
-    "type": "umstrukturierung",
-    "title": "Lufthansa: Stellenabbau im vierstelligen Bereich geprüft",
-    "note": "Laut Ticker-Berichterstattung plant die Lufthansa, tausende Stellen abzubauen. Konkrete Zahlen und betroffene Bereiche sind noch nicht offiziell.",
-    "source": {
-      "publisher": "abfindungshero.de",
-      "title": "Stellenabbau-Ticker Deutschland",
-      "url": "https://abfindungshero.de/stellenabbau-deutschland/",
-      "date": "2026-06-19"
-    }
-  },
-  {
     "id": "bosch-2026-06-reutlingen",
     "company": "bosch",
     "date": "2026-06-01",
@@ -254,6 +226,60 @@
     }
   },
   {
+    "id": "bsh-2025-10",
+    "company": "bsh-hausgeraete",
+    "date": "2025-10-10",
+    "datePrecision": "day",
+    "employees": 1400,
+    "scope": "Deutschland",
+    "locations": [
+      "Nauen",
+      "Bretten",
+      "München"
+    ],
+    "states": [
+      "brandenburg",
+      "baden-wuerttemberg",
+      "bayern"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "BSH baut rund 1.400 Stellen ab – Produktion in Nauen und Bretten läuft aus",
+    "note": "Der Haushaltsgerätehersteller (Bosch/Siemens) reagiert auf die gesunkene Nachfrage: rund 1.400 Stellen in Deutschland sollen abgebaut werden; die Produktion an den Standorten Nauen und Bretten wird eingestellt. Weitere Fabrikschließungen sind laut Unternehmen nicht geplant.",
+    "source": {
+      "publisher": "Volksstimme",
+      "title": "Arbeitsplätze: BSH baut 1.400 Stellen ab – Nachfrage nach Hausgeräten sinkt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/bsh-baut-1-400-stellen-ab-nachfrage-nach-hausgeraten-sinkt-4129651",
+      "date": "2025-10-10"
+    }
+  },
+  {
+    "id": "lufthansa-2025-09",
+    "company": "lufthansa",
+    "date": "2025-09-29",
+    "datePrecision": "day",
+    "employees": 4000,
+    "scope": "Weltweit (Schwerpunkt Deutschland)",
+    "locations": [
+      "Frankfurt am Main",
+      "München"
+    ],
+    "states": [
+      "hessen",
+      "bayern"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Lufthansa kündigt Abbau von rund 4.000 Stellen an – Schwerpunkt Verwaltung",
+    "note": "Der Konzern bestätigte Ende September 2025 ein Einsparprogramm mit rund 4.000 Stellenabbau, vor allem in der Verwaltung und überwiegend in Deutschland. Der Abbau soll ohne betriebsbedingte Kündigungen über Freiwilligenprogramme erfolgen.",
+    "source": {
+      "publisher": "fr.de",
+      "title": "Lufthansa-Schock: Konzern will 4000 Stellen abbauen – vor allem in Deutschland",
+      "url": "https://www.fr.de/wirtschaft/lufthansa-schock-konzern-will-4000-stellen-abbauen-vor-allem-in-deutschland-zr-93959763.html",
+      "date": "2025-09-29"
+    }
+  },
+  {
     "id": "bosch-2025-09",
     "company": "bosch",
     "date": "2025-09-26",
@@ -283,6 +309,30 @@
       "title": "Bosch streicht bis 2030 rund 13.000 Stellen bei Mobility in Deutschland",
       "url": "https://evertiq.de/news/2025-09-26-bosch-streicht-bis-2030-rund-13000-stellen-bei-mobility-in-deutschland",
       "date": "2025-09-26"
+    }
+  },
+  {
+    "id": "ford-2025-09",
+    "company": "ford-deutschland",
+    "date": "2025-09-16",
+    "datePrecision": "day",
+    "employees": 1000,
+    "scope": "Standort",
+    "locations": [
+      "Köln"
+    ],
+    "states": [
+      "nordrhein-westfalen"
+    ],
+    "status": "bestaetigt",
+    "type": "umstrukturierung",
+    "title": "Ford Köln: weitere rund 1.000 Stellen fallen weg – E-Auto-Produktion auf eine Schicht reduziert",
+    "note": "Verschärfung des Sparkurses: Nach dem europäischen Programm (4.000 Stellen, November 2024) kündigte Ford weitere rund 1.000 Stellenabbaus am Standort Köln an. Auslöser ist die schwache Nachfrage nach Elektrofahrzeugen; ab 2026 fährt das Werk nur noch eine Schicht. Der Abbau läuft über Freiwilligenprogramme.",
+    "source": {
+      "publisher": "Volksstimme",
+      "title": "Ford verschärft Sparkurs in Köln: 1.000 Stellen fallen weg",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/ford-verscharft-sparkurs-in-koln-1-000-stellen-fallen-weg-4115910",
+      "date": "2025-09-16"
     }
   },
   {
