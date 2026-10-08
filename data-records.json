@@ -73,28 +73,6 @@
     }
   },
   {
-    "id": "porsche-2026-09",
-    "company": "porsche",
-    "date": "2026-09-04",
-    "datePrecision": "day",
-    "employees": null,
-    "scope": "Deutschland",
-    "locations": [],
-    "states": [
-      "baden-wuerttemberg"
-    ],
-    "status": "gefaehrdet",
-    "type": "umstrukturierung",
-    "title": "VW-Konzern-Umbau: auch bei Audi, Porsche und Lamborghini Weitere Kürzungen Gegenstand der Beschlüsse",
-    "note": "Im Rahmen des VW-Zukunftsplans 2030 (Aufsichtsratsbeschluss vom 4. September 2026, rund 50.000 weitere Stellen im Konzern) sind laut übereinstimmender Berichterstattung auch Audi, Porsche und Lamborghini betroffen; verbindliche Markenzahlen liegen noch nicht vor.",
-    "source": {
-      "publisher": "merkur.de",
-      "title": "VW-Paukenschlag: Bas zieht rote Linie bei Werken",
-      "url": "https://www.merkur.de/wirtschaft/vw-einigt-sich-auf-massiven-sparplan-weitere-50-000-jobs-weg-zr-94474485.html",
-      "date": "2026-09-04"
-    }
-  },
-  {
     "id": "vw-2026-09-04",
     "company": "volkswagen",
     "date": "2026-09-04",
@@ -120,6 +98,28 @@
       "publisher": "zdfheute.de",
       "title": "VW-Sparplan: 50.000 weitere Jobs und vier Werke betroffen",
       "url": "https://www.zdfheute.de/panorama/vw-aufsichtsrat-worauf-geeinigt-faq-100.html",
+      "date": "2026-09-04"
+    }
+  },
+  {
+    "id": "porsche-2026-09",
+    "company": "porsche",
+    "date": "2026-09-04",
+    "datePrecision": "day",
+    "employees": null,
+    "scope": "Deutschland",
+    "locations": [],
+    "states": [
+      "baden-wuerttemberg"
+    ],
+    "status": "gefaehrdet",
+    "type": "umstrukturierung",
+    "title": "VW-Konzern-Umbau: auch bei Audi, Porsche und Lamborghini Weitere Kürzungen Gegenstand der Beschlüsse",
+    "note": "Im Rahmen des VW-Zukunftsplans 2030 (Aufsichtsratsbeschluss vom 4. September 2026, rund 50.000 weitere Stellen im Konzern) sind laut übereinstimmender Berichterstattung auch Audi, Porsche und Lamborghini betroffen; verbindliche Markenzahlen liegen noch nicht vor.",
+    "source": {
+      "publisher": "merkur.de",
+      "title": "VW-Paukenschlag: Bas zieht rote Linie bei Werken",
+      "url": "https://www.merkur.de/wirtschaft/vw-einigt-sich-auf-massiven-sparplan-weitere-50-000-jobs-weg-zr-94474485.html",
       "date": "2026-09-04"
     }
   },
@@ -576,25 +576,25 @@
     }
   },
   {
-    "id": "ford-2024-11",
-    "company": "ford-deutschland",
+    "id": "bayer-2024-11",
+    "company": "bayer",
     "date": "2024-11-01",
     "datePrecision": "month",
-    "employees": 2900,
-    "scope": "Deutschland",
+    "employees": null,
+    "scope": "Weltweit",
     "locations": [
-      "Köln",
-      "Aachen",
-      "Merkenich"
+      "Leverkusen",
+      "Wuppertal",
+      "Bergkamen"
     ],
     "states": [
       "nordrhein-westfalen"
     ],
     "status": "bestaetigt",
-    "type": "massenentlassung",
-    "title": "Ford-Werke: rund 2.900 Stellen in Köln und Aachen bis 2027",
-    "note": "Trifft Entwicklung und Verwaltung; die Produktion des elektrischen Explorer in Köln bleibt laut Unternehmensangaben unberührt.",
-    "effectiveBy": "2027",
+    "type": "umstrukturierung",
+    "title": "Bayer: laufender Stellenabbau – Sozialplan mit Abfindungsfaktor 1,5 dokumentiert",
+    "note": "Mehrführungsebene wird abgebaut; das dokumentierte Abfindungsschema liegt bei Faktor 1,5 pro Beschäftigungsjahr, gedeckelt bei 52,5 Monatsgehältern – einer der attraktivsten Sätze im DAX-Umfeld.",
+    "effectiveBy": "2026",
     "source": {
       "publisher": "team-abfindung.de",
       "title": "Stellenabbau 2026: Betroffene Firmen & Abfindungs-Check",
@@ -631,25 +631,25 @@
     }
   },
   {
-    "id": "bayer-2024-11",
-    "company": "bayer",
+    "id": "ford-2024-11",
+    "company": "ford-deutschland",
     "date": "2024-11-01",
     "datePrecision": "month",
-    "employees": null,
-    "scope": "Weltweit",
+    "employees": 2900,
+    "scope": "Deutschland",
     "locations": [
-      "Leverkusen",
-      "Wuppertal",
-      "Bergkamen"
+      "Köln",
+      "Aachen",
+      "Merkenich"
     ],
     "states": [
       "nordrhein-westfalen"
     ],
     "status": "bestaetigt",
-    "type": "umstrukturierung",
-    "title": "Bayer: laufender Stellenabbau – Sozialplan mit Abfindungsfaktor 1,5 dokumentiert",
-    "note": "Mehrführungsebene wird abgebaut; das dokumentierte Abfindungsschema liegt bei Faktor 1,5 pro Beschäftigungsjahr, gedeckelt bei 52,5 Monatsgehältern – einer der attraktivsten Sätze im DAX-Umfeld.",
-    "effectiveBy": "2026",
+    "type": "massenentlassung",
+    "title": "Ford-Werke: rund 2.900 Stellen in Köln und Aachen bis 2027",
+    "note": "Trifft Entwicklung und Verwaltung; die Produktion des elektrischen Explorer in Köln bleibt laut Unternehmensangaben unberührt.",
+    "effectiveBy": "2027",
     "source": {
       "publisher": "team-abfindung.de",
       "title": "Stellenabbau 2026: Betroffene Firmen & Abfindungs-Check",
